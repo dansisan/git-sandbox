@@ -1,1 +1,2 @@
 Add line on master after feature/3 in new file.
+Add another line in separate commit.
