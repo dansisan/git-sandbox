@@ -1,2 +1,2 @@
-# A Playground to test git stuf
+# A Playground to test git stuff
 
